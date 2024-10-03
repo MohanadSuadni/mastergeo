@@ -1,0 +1,20 @@
+office@mastergeo.rs
+Mastergeo.00
+milos.markovic@mastergeo.rs
+Mastergeo.01
+milan.jankovic@mastergeo.rs
+Mastergeo.02
+uros.dinic@mastergeo.rs
+Mastergeo.03
+
+
+
+
+Aktivacija cPanel
+Upravo je cPanel kreiran. Podatke za pristup cPanelu možete naći u nastavku.
+
+
+Username: mastergeo
+Password: JpysFIx8IC15JAD
+
+cPanel Link: https://s5.webhostingsrbija.rs:2083/
